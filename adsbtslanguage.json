@@ -20,7 +20,7 @@
     "c_id":"",
     "c_banner_setting":"",
     "c_banner_main":"",
-    "c_inter_main":"",
+    "c_inter_main":""
   }, 
   "app_exists": {
     "id": "com.BTS.BTSchat.BTSMessenger.messenger",
